@@ -9,7 +9,7 @@
 public final class pe003 {
     public static void main (String[] args)
     {
-        long num = 600851475143L;   // odd value is not divided by any even
+        long num = 600851475143L;
         long primeFactor = 1L;
 
         for (long i = 3L; i <= num / i;)
