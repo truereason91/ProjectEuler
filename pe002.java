@@ -13,7 +13,7 @@ public final class pe002 {
     public static void main (String[] args)
     {
         int fib1 = 1;
-        int fib2 =2;
+        int fib2 = 2;
         int fibonacci = 0;
         int sum = 0;
 
