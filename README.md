@@ -1,2 +1,2 @@
 # project-euler
-A repository of Project Euler problems and solutions.
+A repository of Project Euler problems and solutions in Java.
